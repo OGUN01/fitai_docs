@@ -1,7 +1,6 @@
 # Privacy Policy
 
-Last updated: [Current Date]
-
+Last updated: 27-03-2025
 ## Introduction
 
 Welcome to our Fitness App. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you use our app and tell you about your privacy rights.
